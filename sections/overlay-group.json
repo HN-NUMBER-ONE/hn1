@@ -1,0 +1,160 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "aside",
+  "name": "Overlay group",
+  "sections": {
+    "cart-drawer": {
+      "type": "cart-drawer",
+      "settings": {
+        "show_cart_page_link": true,
+        "show_backorder_text": true,
+        "show_vendor": false,
+        "position_cart_summary": "bottom",
+        "stick_footer": true,
+        "show_order_note": true,
+        "show_shipping_text_notice": false,
+        "show_additional_checkout_buttons": false,
+        "show_checkout_button": true,
+        "cart_terms_page": "",
+        "show_shipping_calculator": true,
+        "shipping_calculator_default_country": "United States",
+        "promoted_products_visibility": "non-empty-cart",
+        "promoted_products_heading": "",
+        "promoted_products_list": [],
+        "promoted_products_layout": "carousel",
+        "show_media_promotion": true,
+        "media_promotion_visibility": "empty-cart",
+        "image": "",
+        "link_url": "",
+        "media_promotion_min_height": 150,
+        "content": "<h5>Flash Sale!</h5>",
+        "text_type_scale": "1em",
+        "text_width": 400,
+        "text_alignment": "justify-center items-center text-center",
+        "button_label": "Shop Offers",
+        "button_style": "link",
+        "text_color": "#ffffff",
+        "tint_color": "#000000",
+        "tint_opacity": 25
+      }
+    },
+    "product-compare": {
+      "type": "product-compare",
+      "blocks": {
+        "compare-1": {
+          "type": "image",
+          "settings": {}
+        },
+        "compare-2": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "compare-3": {
+          "type": "title",
+          "settings": {}
+        },
+        "compare-4": {
+          "type": "price",
+          "settings": {}
+        },
+        "compare-5": {
+          "type": "description",
+          "settings": {}
+        },
+        "compare-6": {
+          "type": "variants",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "compare-1",
+        "compare-2",
+        "compare-3",
+        "compare-4",
+        "compare-5",
+        "compare-6"
+      ],
+      "settings": {}
+    },
+    "popup": {
+      "type": "pop-up",
+      "blocks": {
+        "image": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/lifestyle-packs_b8fcbd02-089e-406d-aa97-96834752c6d2.webp",
+            "image_position_desktop": "left",
+            "image_position_mobile": "hidden"
+          }
+        },
+        "subheading": {
+          "type": "subheading",
+          "settings": {
+            "text": "Limited time Special offer"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "New season sale!",
+            "heading_size": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Save 10% on all qualifying orders</p>",
+            "text_size": ""
+          }
+        },
+        "discount": {
+          "type": "discount",
+          "settings": {
+            "discount_code": "NEWSEASON10"
+          }
+        },
+        "social": {
+          "type": "social",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "image",
+        "subheading",
+        "heading",
+        "text",
+        "discount",
+        "social"
+      ],
+      "settings": {
+        "trigger": "delay",
+        "delay": 6,
+        "show_to_guests_only": false,
+        "show_on_mobile": true,
+        "dismiss_days": 2,
+        "position": "justify-center items-center",
+        "text_align": "text-center",
+        "padding": "large",
+        "shrink_width": false,
+        "heading_color": "#070707",
+        "text_color": "#070707",
+        "bg_color": "#ffffff",
+        "bg_grad": "",
+        "tint_opacity": 10
+      }
+    }
+  },
+  "order": [
+    "cart-drawer",
+    "product-compare",
+    "popup"
+  ]
+}

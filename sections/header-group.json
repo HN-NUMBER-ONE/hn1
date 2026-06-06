@@ -1,0 +1,155 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header Group",
+  "sections": {
+    "announcement": {
+      "type": "announcement",
+      "blocks": {
+        "e0a576ec-9cab-4a3e-afee-7089ebbd78e7": {
+          "type": "announcement",
+          "settings": {
+            "text": "<p><strong>Easy returns policy<\/strong> <a href=\"#\">Learn more &gt;<\/a><\/p>"
+          }
+        },
+        "a7e981b6-bb35-4609-9611-24cdfc5ed0f3": {
+          "type": "announcement",
+          "settings": {
+            "text": "<p><strong>Free domestic shipping<\/strong> <a href=\"#\">Learn more &gt;<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "e0a576ec-9cab-4a3e-afee-7089ebbd78e7",
+        "a7e981b6-bb35-4609-9611-24cdfc5ed0f3"
+      ],
+      "settings": {
+        "link1": "",
+        "link1_label": "",
+        "link2": "",
+        "link2_label": "",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "bg_color": "#070707",
+        "text_color": "#ffffff",
+        "text_type_scale": "small",
+        "read_time": 4
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "67c18c2b-3f25-46fc-bbae-e6a70af782de": {
+          "type": "sidebar",
+          "settings": {
+            "title": "Shop",
+            "collection_images": "none",
+            "collection_use_product_image": true,
+            "collection_circle_image": false,
+            "show_underline": true,
+            "show_collection_images": true,
+            "sidebar_link_use_product_image": false,
+            "show_product_images": true
+          }
+        },
+        "001e31d8-3728-4aae-bb12-4d676b515798": {
+          "type": "pills",
+          "settings": {
+            "title": "Experience",
+            "collection_images": "none",
+            "collection_use_product_image": false,
+            "promo_position": "right",
+            "promo_min_height": 100,
+            "promo_text_color": "#ffffff",
+            "promo_tint_color": "#000000",
+            "promo_tint_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "67c18c2b-3f25-46fc-bbae-e6a70af782de",
+        "001e31d8-3728-4aae-bb12-4d676b515798"
+      ],
+      "settings": {
+        "enable_sticky": true,
+        "mobile_menu_position": "burger-left",
+        "logo_type_scale": "1.5",
+        "logo": "{{ shop.brand.logo }}",
+        "logo_width": 200,
+        "logo_h1": true,
+        "logo_center": true,
+        "enable_search": true,
+        "minimise_search_mobile": false,
+        "minimise_search_desktop": true,
+        "menu_center": true,
+        "repeat_links": true,
+        "menu_featured_link": "Sale",
+        "quicklinks_menu": "",
+        "cta_show": false,
+        "cta_icon": "phone",
+        "cta_label": "Call us",
+        "cta_link": "",
+        "cta_border_color": "#333333",
+        "cta_bg_color": "#333333",
+        "cta_text_color": "#ffffff",
+        "bg_color": "#ffffff",
+        "text_color": "#070707",
+        "accent_color": "#3454d1"
+      }
+    },
+    "8f831b4a-61cd-4342-bd87-cfee506e076b": {
+      "type": "promo-strip",
+      "blocks": {
+        "sections--16115011682483__8f831b4a-61cd-4342-bd87-cfee506e076b-1674759243c636bd55-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "NEW SEASON SALE!",
+            "heading_size": "h6",
+            "show_on_mobile": true,
+            "show_on_desktop": true
+          }
+        },
+        "2775e6d1-30d8-44d9-9b12-6476c3c8c967": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Save 10% on all qualifying orders<\/p>",
+            "enlarge_text": false,
+            "show_on_mobile": false,
+            "show_on_desktop": true
+          }
+        },
+        "49f51240-ac25-4530-86d2-39aa53cd71c8": {
+          "type": "discount",
+          "settings": {
+            "discount_code": "NEWSEASON10"
+          }
+        }
+      },
+      "block_order": [
+        "sections--16115011682483__8f831b4a-61cd-4342-bd87-cfee506e076b-1674759243c636bd55-0",
+        "2775e6d1-30d8-44d9-9b12-6476c3c8c967",
+        "49f51240-ac25-4530-86d2-39aa53cd71c8"
+      ],
+      "settings": {
+        "section_height": "xsmall",
+        "color_scheme": "3",
+        "full_width": true,
+        "dividers": "none",
+        "prevent_animation": true
+      }
+    }
+  },
+  "order": [
+    "announcement",
+    "header",
+    "8f831b4a-61cd-4342-bd87-cfee506e076b"
+  ]
+}

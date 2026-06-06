@@ -1,0 +1,1240 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165ffde9-18bd-4f9a-ab5d-b219a23aa65f": {
+      "type": "background-video",
+      "blocks": {
+        "fbc19667-bf86-4e99-926f-671f95adbbc9": {
+          "type": "subheading",
+          "settings": {
+            "text": "ENTERPRISE CO."
+          }
+        },
+        "template--16132117233843__165ffde9-18bd-4f9a-ab5d-b219a23aa65f-16784664657a7e5f0a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Adventure<br>Awaits",
+            "heading_size": "h0",
+            "heading_h1": false
+          }
+        },
+        "template--16132117233843__165ffde9-18bd-4f9a-ab5d-b219a23aa65f-16784664657a7e5f0a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Whether you are planning your next  route or working on something new, we have everything for your adventure.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "4e9f8574-9601-4e92-8708-9f79ac0cbef8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore Collections",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "fbc19667-bf86-4e99-926f-671f95adbbc9",
+        "template--16132117233843__165ffde9-18bd-4f9a-ab5d-b219a23aa65f-16784664657a7e5f0a-0",
+        "template--16132117233843__165ffde9-18bd-4f9a-ab5d-b219a23aa65f-16784664657a7e5f0a-1",
+        "4e9f8574-9601-4e92-8708-9f79ac0cbef8"
+      ],
+      "settings": {
+        "video_description": "",
+        "poster_image": "",
+        "video_height": "md",
+        "overlay_text_align": "text-center",
+        "overlay_position": "justify-center items-center",
+        "mob_center_text": true,
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff",
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "lazyload": false,
+        "prevent_animation": true
+      }
+    },
+    "31dfed02-3215-4fa2-a17d-38ce8ce1e694": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16115011354803__31dfed02-3215-4fa2-a17d-38ce8ce1e694-1674747389d180bfb9-0": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--16115011354803__31dfed02-3215-4fa2-a17d-38ce8ce1e694-1674747389d180bfb9-1": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "0c96547f-4fd8-4359-90e0-016e762766c4": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--16115011354803__31dfed02-3215-4fa2-a17d-38ce8ce1e694-1674747389d180bfb9-2": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--16115011354803__31dfed02-3215-4fa2-a17d-38ce8ce1e694-1674747389d180bfb9-3": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "c5e911dc-345b-4fa2-b755-f2fd863e8c4b": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16115011354803__31dfed02-3215-4fa2-a17d-38ce8ce1e694-1674747389d180bfb9-0",
+        "template--16115011354803__31dfed02-3215-4fa2-a17d-38ce8ce1e694-1674747389d180bfb9-1",
+        "0c96547f-4fd8-4359-90e0-016e762766c4",
+        "template--16115011354803__31dfed02-3215-4fa2-a17d-38ce8ce1e694-1674747389d180bfb9-2",
+        "template--16115011354803__31dfed02-3215-4fa2-a17d-38ce8ce1e694-1674747389d180bfb9-3",
+        "c5e911dc-345b-4fa2-b755-f2fd863e8c4b"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "card_size": "small",
+        "use_product_image": true,
+        "circle_image": true,
+        "show_border": true,
+        "color_scheme": "none",
+        "full_width": true
+      }
+    },
+    "8439eac4-400c-4a05-8f8d-68f8e4025971": {
+      "type": "scrolling-banner",
+      "blocks": {
+        "dd95ca66-d4d2-4c4c-998e-09527e3d7222": {
+          "type": "image",
+          "settings": {
+            "image": "",
+            "image_height": 88,
+            "link": ""
+          }
+        },
+        "template--16115011354803__8439eac4-400c-4a05-8f8d-68f8e4025971-1674747345c519415f-0": {
+          "type": "text",
+          "settings": {
+            "text": "free shipping!",
+            "link": "",
+            "font": "heading",
+            "heading_size": "h3"
+          }
+        },
+        "2cf49328-f3ca-42a9-909a-717f429bef21": {
+          "type": "image",
+          "settings": {
+            "image": "",
+            "image_height": 80,
+            "link": ""
+          }
+        },
+        "78f160ec-5def-4da3-8b09-4f952c7053de": {
+          "type": "text",
+          "settings": {
+            "text": "ON ORDERS OVER $100",
+            "link": "",
+            "font": "body",
+            "heading_size": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "dd95ca66-d4d2-4c4c-998e-09527e3d7222",
+        "template--16115011354803__8439eac4-400c-4a05-8f8d-68f8e4025971-1674747345c519415f-0",
+        "2cf49328-f3ca-42a9-909a-717f429bef21",
+        "78f160ec-5def-4da3-8b09-4f952c7053de"
+      ],
+      "settings": {
+        "section_height": "xsmall",
+        "spacing": 48,
+        "speed": 20,
+        "direction": "normal",
+        "pausable": true,
+        "color_scheme": "3",
+        "dividers": "none",
+        "prevent_animation": true
+      }
+    },
+    "f4a08e99-a90a-4c8c-b672-12463a13ea4b": {
+      "type": "promo-grid",
+      "blocks": {
+        "template--16132117233843__f4a08e99-a90a-4c8c-b672-12463a13ea4b-16783824506a08a467-0": {
+          "type": "media",
+          "settings": {
+            "image": "",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "line1_text": "Save up to",
+            "line1_text_type_scale": "h6",
+            "line2_text": "50%",
+            "line2_text_type_scale": "h1",
+            "line3_text": "",
+            "line3_text_type_scale": "h6",
+            "overlay_position": "justify-start items-start",
+            "text_alignment": "text-center",
+            "promo_circle": false,
+            "background_color": "#621979",
+            "text_color": "#ffffff",
+            "subheading": "Technical Jackets Sale",
+            "link_text": "Shop Jackets",
+            "text_type_scale": "h6",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "template--16132117233843__f4a08e99-a90a-4c8c-b672-12463a13ea4b-16783824506a08a467-1": {
+          "type": "media",
+          "settings": {
+            "image": "",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "line1_text": "25%",
+            "line1_text_type_scale": "h2",
+            "line2_text": "Off!",
+            "line2_text_type_scale": "h6",
+            "line3_text": "",
+            "line3_text_type_scale": "h4",
+            "overlay_position": "justify-start items-start",
+            "text_alignment": "text-center",
+            "promo_circle": false,
+            "background_color": "#2ada71",
+            "text_color": "#ffffff",
+            "subheading": "Pack to the future",
+            "link_text": "Shop Backpacks",
+            "text_type_scale": "h6",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "template--16132117233843__f4a08e99-a90a-4c8c-b672-12463a13ea4b-16783824506a08a467-2": {
+          "type": "media",
+          "settings": {
+            "image": "",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "line1_text": "From",
+            "line1_text_type_scale": "h6",
+            "line2_text": "$30",
+            "line2_text_type_scale": "h2",
+            "line3_text": "",
+            "line3_text_type_scale": "h6",
+            "overlay_position": "justify-start items-start",
+            "text_alignment": "text-center",
+            "promo_circle": false,
+            "background_color": "#1a66d2",
+            "text_color": "#ffffff",
+            "subheading": "Best foot forward",
+            "link_text": "Shop Footwear",
+            "text_type_scale": "h6",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "template--16132117233843__f4a08e99-a90a-4c8c-b672-12463a13ea4b-16783824506a08a467-3": {
+          "type": "media",
+          "settings": {
+            "image": "",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "line1_text": "Shine a",
+            "line1_text_type_scale": "h6",
+            "line2_text": "Light!",
+            "line2_text_type_scale": "h3",
+            "line3_text": "",
+            "line3_text_type_scale": "h6",
+            "overlay_position": "justify-start items-start",
+            "text_alignment": "text-center",
+            "promo_circle": false,
+            "background_color": "#56cbf9",
+            "text_color": "#ffffff",
+            "subheading": "The latest lighting",
+            "link_text": "Shop Lighting",
+            "text_type_scale": "h6",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--16132117233843__f4a08e99-a90a-4c8c-b672-12463a13ea4b-16783824506a08a467-0",
+        "template--16132117233843__f4a08e99-a90a-4c8c-b672-12463a13ea4b-16783824506a08a467-1",
+        "template--16132117233843__f4a08e99-a90a-4c8c-b672-12463a13ea4b-16783824506a08a467-2",
+        "template--16132117233843__f4a08e99-a90a-4c8c-b672-12463a13ea4b-16783824506a08a467-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": true,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 240,
+        "fixed_height_mobile": 400,
+        "text_overlay_font": "heading",
+        "color_scheme": "default"
+      }
+    },
+    "7d04d41f-0e53-4472-959a-d4b172f7363e": {
+      "type": "background-video",
+      "blocks": {
+        "template--16115011354803__7d04d41f-0e53-4472-959a-d4b172f7363e-1674752914863d08fe-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "social climbing",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "template--16115011354803__7d04d41f-0e53-4472-959a-d4b172f7363e-1674752914863d08fe-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From the local boulders to remote alpine faces, our cutting-edge climbing equipment is designed and built for the send across the full spectrum of climbing pursuits.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "f06cd9f3-7e78-4c37-b01e-a5987d0b7721": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Climb",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16115011354803__7d04d41f-0e53-4472-959a-d4b172f7363e-1674752914863d08fe-0",
+        "template--16115011354803__7d04d41f-0e53-4472-959a-d4b172f7363e-1674752914863d08fe-1",
+        "f06cd9f3-7e78-4c37-b01e-a5987d0b7721"
+      ],
+      "settings": {
+        "video_description": "",
+        "poster_image": "",
+        "video_height": "md",
+        "overlay_text_align": "text-center",
+        "overlay_position": "justify-center items-center",
+        "mob_center_text": true,
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff",
+        "tint_color": "#070707",
+        "tint_opacity": 25,
+        "lazyload": true,
+        "prevent_animation": false
+      }
+    },
+    "2cbf9afe-d5b9-47d9-aa94-a8ad68c599df": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "show_view_all": false,
+        "collection": "",
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "products_to_show": 24,
+        "show_highlight_products": true,
+        "show_promo_info": true,
+        "image": "",
+        "image_ratio": "natural",
+        "promo_title": "Apparel for all seasons",
+        "content": "<p>From lightweight wind protection to insulation from the coldest  conditions, our range of apparel covers the full spectrum of needs and performance.<\/p>",
+        "link_url": "",
+        "button_label": "Shop Apparel",
+        "color_scheme": "3",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "c53ef942-fe3b-4f18-b8ec-97c45a768302": {
+      "type": "slideshow",
+      "blocks": {
+        "292c8002-bcbf-4b7c-a3a4-9232d3985532": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "",
+            "image_mobile": "",
+            "url": "",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": true,
+            "subheading": "",
+            "heading": "in-tents<br>situations",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>The Mission 4P is a fast pitching double wall tent built for mountaineering and expedition style pursuits...<\/p>",
+            "enlarge_text": true,
+            "button_1_label": "Shop Now",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#1a66d2",
+            "bg_grad": ""
+          }
+        },
+        "8407a793-1e32-4471-95f9-702dfe251976": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "",
+            "image_mobile": "",
+            "url": "",
+            "overlay_position": "justify-start items-center",
+            "overlay_text_align": "text-start",
+            "mob_center_text": true,
+            "subheading": "",
+            "heading": "ADVENTURE AWAITS",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Whether you are planning your next route or working on something new, we have everything for your adventure.<\/p>",
+            "enlarge_text": true,
+            "button_1_label": "Shop Mens",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Shop Womens",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#1a66d2",
+            "bg_grad": ""
+          }
+        },
+        "9db73f84-e6a0-45c9-831b-668ab52185b4": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "",
+            "url": "",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": true,
+            "subheading": "",
+            "heading": "RUN. SLEEP.REPEAT.",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Weekend warrior or professional ultra-runner, we've got packs, poles, lights and other essentials for life on the run.<\/p>",
+            "enlarge_text": true,
+            "button_1_label": "Shop Run",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#1a66d2",
+            "bg_grad": ""
+          }
+        },
+        "636a4382-1c41-44af-8a72-c9f48d88e330": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "",
+            "url": "",
+            "overlay_position": "justify-start items-center",
+            "overlay_text_align": "text-start",
+            "mob_center_text": true,
+            "subheading": "",
+            "heading": "Snow Worries",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Our collection of skiing and snowboarding equipment, apparel and accessories lives to ride on snow.<\/p>",
+            "enlarge_text": true,
+            "button_1_label": "Equipment",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Ski & Snow",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#1a66d2",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "292c8002-bcbf-4b7c-a3a4-9232d3985532",
+        "8407a793-1e32-4471-95f9-702dfe251976",
+        "9db73f84-e6a0-45c9-831b-668ab52185b4",
+        "636a4382-1c41-44af-8a72-c9f48d88e330"
+      ],
+      "settings": {
+        "height_mode": "fixed",
+        "fixed_height_desktop": 640,
+        "fixed_height_mobile": 500,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_dots",
+        "pagination_color": "#ffffff",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": false,
+        "autoplay_speed": 6,
+        "color_scheme": "white",
+        "full_width": false,
+        "tint_color": "#070707",
+        "tint_opacity": 20,
+        "accessibility_info": "Featured collections and new arrivals",
+        "prevent_animation": false
+      }
+    },
+    "fc6dbdbe-ad06-4119-86ac-df55c455c19d": {
+      "type": "product-features",
+      "blocks": {
+        "d41b1a52-032e-4bff-889b-2e2c420b73cc": {
+          "type": "feature",
+          "settings": {
+            "heading": "Precision fit",
+            "text": "<p>Low profile molded collar padding and lining, and overlap tongue means fewer internal seams for precision fit.<\/p>",
+            "content_align": "text-start",
+            "hotspot_x": 32,
+            "hotspot_y": 28
+          }
+        },
+        "4a8fd0c1-0c63-444d-9d71-4ab6ad7b4a4b": {
+          "type": "feature",
+          "settings": {
+            "heading": "Updated Fabric",
+            "text": "<p>Upper construction of Black Diamond developed knit and woven textiles with welded TPU film overlays.<\/p>",
+            "content_align": "text-start",
+            "hotspot_x": 48,
+            "hotspot_y": 56
+          }
+        },
+        "ddccd1de-e8dd-45bf-bbb8-d6ed3acbaad5": {
+          "type": "feature",
+          "settings": {
+            "heading": "Adjustable fit",
+            "text": "<p>Lace to toe with webbing and scalloped eyelets for adjustable fit and tension depending on conditions.<\/p>",
+            "content_align": "text-start",
+            "hotspot_x": 72,
+            "hotspot_y": 64
+          }
+        }
+      },
+      "block_order": [
+        "d41b1a52-032e-4bff-889b-2e2c420b73cc",
+        "4a8fd0c1-0c63-444d-9d71-4ab6ad7b4a4b",
+        "ddccd1de-e8dd-45bf-bbb8-d6ed3acbaad5"
+      ],
+      "settings": {
+        "product": "",
+        "show_content": true,
+        "layout": "text_last",
+        "text_align": "text-center",
+        "mob_center_text": false,
+        "heading_size": "h1",
+        "enlarge_text": false,
+        "image": "",
+        "title": "Fuel Approach Shoes",
+        "description": "<p>Engineered for days when the word “approach” actually involves full-on climbing, the Enty is our most technical performance shoe. The Enty’s upper combines breathable SuperWeave, a durable stretch woven lateral panel, and welded TPU film overlays for maximum durability.<\/p>",
+        "button_label": "Shop now",
+        "button_link": "",
+        "hotspot_color": "#621979",
+        "color_scheme": "none",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "20ffa8fb-526b-4680-8e3f-d383a26ecd27": {
+      "type": "countdown-timer",
+      "blocks": {
+        "8f0ed903-f0ec-43d8-a11b-b0820c23a77a": {
+          "type": "subheading",
+          "settings": {
+            "text": "Cop the Drop"
+          }
+        },
+        "template--16115011354803__20ffa8fb-526b-4680-8e3f-d383a26ecd27-16748211316d186068-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Flash Sale Now on!",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "template--16115011354803__20ffa8fb-526b-4680-8e3f-d383a26ecd27-16748211316d186068-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shop our best-ever deals.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--16115011354803__20ffa8fb-526b-4680-8e3f-d383a26ecd27-16748211316d186068-2": {
+          "type": "countdown",
+          "settings": {
+            "end_date": "",
+            "end_time": "",
+            "end_text": "",
+            "enlarge_end_text": false,
+            "hide_on_end": false
+          }
+        },
+        "51651a1e-f614-4d7d-91a8-7a443ac12982": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "Shop Deals",
+            "button_1_link": "#",
+            "button_1_style": "btn btn--secondary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "link link-inherit"
+          }
+        }
+      },
+      "block_order": [
+        "8f0ed903-f0ec-43d8-a11b-b0820c23a77a",
+        "template--16115011354803__20ffa8fb-526b-4680-8e3f-d383a26ecd27-16748211316d186068-0",
+        "template--16115011354803__20ffa8fb-526b-4680-8e3f-d383a26ecd27-16748211316d186068-1",
+        "template--16115011354803__20ffa8fb-526b-4680-8e3f-d383a26ecd27-16748211316d186068-2",
+        "51651a1e-f614-4d7d-91a8-7a443ac12982"
+      ],
+      "settings": {
+        "image": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 750,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": false,
+        "countdown_size": "24",
+        "use_custom_colors": true,
+        "count_color": "#ffffff",
+        "bg_color": "#621979",
+        "color_scheme": "1",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 0
+      }
+    },
+    "bd7c92b7-0936-44d1-9b5c-32d2ae935f7f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Camping",
+        "heading_align": "text-start",
+        "show_view_all": true,
+        "collection": "all",
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "products_to_show": 8,
+        "show_highlight_products": false,
+        "show_promo_info": false,
+        "image": "",
+        "image_ratio": "fill",
+        "promo_title": "Camping Gear",
+        "content": "<p>Our complete line of field-tested tents, tarps and bivys runs the gamut from ultralight, minimalist protection to highly protective four-season refuges.<\/p>",
+        "link_url": "",
+        "button_label": "Shop tents & Shelters",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "f36b38c3-6a51-468e-b9cc-7cc94d02bc98": {
+      "type": "media-with-text",
+      "blocks": {
+        "8f1e31a8-f8f9-4096-a738-43c1e13ab459": {
+          "type": "subheading",
+          "settings": {
+            "text": "Meet the team..."
+          }
+        },
+        "template--16147944669363__f36b38c3-6a51-468e-b9cc-7cc94d02bc98-1678964709d14ced09-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Jen Terprise",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "template--16147944669363__f36b38c3-6a51-468e-b9cc-7cc94d02bc98-1678964709d14ced09-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Everyone knows Jen, right? A professional rock climber whose audacious free-solo ascents of America’s biggest cliffs have made her one of the most recognized and followed climbers in the world...<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--16147944669363__f36b38c3-6a51-468e-b9cc-7cc94d02bc98-1678964709d14ced09-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "More about Jen",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "8f1e31a8-f8f9-4096-a738-43c1e13ab459",
+        "template--16147944669363__f36b38c3-6a51-468e-b9cc-7cc94d02bc98-1678964709d14ced09-0",
+        "template--16147944669363__f36b38c3-6a51-468e-b9cc-7cc94d02bc98-1678964709d14ced09-1",
+        "template--16147944669363__f36b38c3-6a51-468e-b9cc-7cc94d02bc98-1678964709d14ced09-2"
+      ],
+      "settings": {
+        "image": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "3",
+        "only_content_color_scheme": false
+      }
+    },
+    "e3be02ef-1ad3-4053-96a3-7c00500dd3bb": {
+      "type": "shoppable-image",
+      "blocks": {
+        "template--16115011354803__e3be02ef-1ad3-4053-96a3-7c00500dd3bb-16747526424dffca35-0": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 24,
+            "hotspot_y": 40
+          }
+        },
+        "template--16115011354803__e3be02ef-1ad3-4053-96a3-7c00500dd3bb-16747526424dffca35-1": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 48,
+            "hotspot_y": 20
+          }
+        },
+        "template--16115011354803__e3be02ef-1ad3-4053-96a3-7c00500dd3bb-16747526424dffca35-2": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 72,
+            "hotspot_y": 76
+          }
+        }
+      },
+      "block_order": [
+        "template--16115011354803__e3be02ef-1ad3-4053-96a3-7c00500dd3bb-16747526424dffca35-0",
+        "template--16115011354803__e3be02ef-1ad3-4053-96a3-7c00500dd3bb-16747526424dffca35-1",
+        "template--16115011354803__e3be02ef-1ad3-4053-96a3-7c00500dd3bb-16747526424dffca35-2"
+      ],
+      "settings": {
+        "image": "",
+        "layout": "image_first",
+        "show_vendor": true,
+        "show_content": true,
+        "mob_center_text": false,
+        "heading": "Everyday gear. Extraordinary performance.",
+        "text": "<p>Not all epic journey's and adventures take place way off the beaten track, far from civilisation - sometimes it's the day-to-day stuff right on our doorstep that matters most. <\/p>",
+        "button_label": "Lifestyle Shoes",
+        "button_link": "",
+        "hotspot_color": "#ffffff",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "bbebe295-5577-4056-80f8-88244231ec72": {
+      "type": "link-lists",
+      "blocks": {
+        "template--16115011354803__bbebe295-5577-4056-80f8-88244231ec72-1674749752ac2fc9c2-0": {
+          "type": "column",
+          "settings": {
+            "image": "",
+            "heading": "Climbing",
+            "heading_bg_color": "#56cbf9",
+            "heading_text_color": "#ffffff",
+            "button_label": "Shop All",
+            "button_link": ""
+          }
+        },
+        "template--16115011354803__bbebe295-5577-4056-80f8-88244231ec72-1674749752ac2fc9c2-1": {
+          "type": "column",
+          "settings": {
+            "image": "",
+            "heading": "Running",
+            "heading_bg_color": "#2ada71",
+            "heading_text_color": "#ffffff",
+            "button_label": "Shop All",
+            "button_link": ""
+          }
+        },
+        "template--16115011354803__bbebe295-5577-4056-80f8-88244231ec72-1674749752ac2fc9c2-2": {
+          "type": "column",
+          "settings": {
+            "image": "",
+            "heading": "Hiking & Trekking",
+            "heading_bg_color": "#5f4bb6",
+            "heading_text_color": "#ffffff",
+            "button_label": "Shop All",
+            "button_link": ""
+          }
+        },
+        "7ca5a162-a788-40a0-90cd-c1f153f46f91": {
+          "type": "column",
+          "settings": {
+            "image": "",
+            "heading": "Ski & Snowboard",
+            "heading_bg_color": "#3454d1",
+            "heading_text_color": "#ffffff",
+            "button_label": "Shop All",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16115011354803__bbebe295-5577-4056-80f8-88244231ec72-1674749752ac2fc9c2-0",
+        "template--16115011354803__bbebe295-5577-4056-80f8-88244231ec72-1674749752ac2fc9c2-1",
+        "template--16115011354803__bbebe295-5577-4056-80f8-88244231ec72-1674749752ac2fc9c2-2",
+        "7ca5a162-a788-40a0-90cd-c1f153f46f91"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "small",
+        "column_align": "left",
+        "color_scheme": "1",
+        "image_ratio": "1.77",
+        "button_style": "btn--primary"
+      }
+    },
+    "1be86018-1cee-4496-8655-46c2c6d2c7c4": {
+      "type": "promo-strip",
+      "blocks": {
+        "template--16115011354803__1be86018-1cee-4496-8655-46c2c6d2c7c4-167475089513c92764-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "NEW SEASON SALE!",
+            "heading_size": "h3",
+            "show_on_mobile": true,
+            "show_on_desktop": true
+          }
+        },
+        "template--16115011354803__1be86018-1cee-4496-8655-46c2c6d2c7c4-167475089513c92764-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Save 10% on all qualifying orders<\/p>",
+            "enlarge_text": true,
+            "show_on_mobile": true,
+            "show_on_desktop": true
+          }
+        },
+        "cbf0b35a-9be0-42ae-aea6-1db3bcd13011": {
+          "type": "discount",
+          "settings": {
+            "discount_code": "NEWSEASON10"
+          }
+        }
+      },
+      "block_order": [
+        "template--16115011354803__1be86018-1cee-4496-8655-46c2c6d2c7c4-167475089513c92764-0",
+        "template--16115011354803__1be86018-1cee-4496-8655-46c2c6d2c7c4-167475089513c92764-1",
+        "cbf0b35a-9be0-42ae-aea6-1db3bcd13011"
+      ],
+      "settings": {
+        "section_height": "medium",
+        "color_scheme": "3",
+        "full_width": true,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "1688eaf9-2a0d-4ac0-9dd4-52b890f0f2c5": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16115011354803__1688eaf9-2a0d-4ac0-9dd4-52b890f0f2c5-16747521356f3327f2-0": {
+          "type": "vendor-sku",
+          "settings": {
+            "show_vendor": false,
+            "show_sku": false,
+            "show_barcode": false
+          }
+        },
+        "template--16115011354803__1688eaf9-2a0d-4ac0-9dd4-52b890f0f2c5-16747521356f3327f2-1": {
+          "type": "title",
+          "settings": {
+            "show_weight": false
+          }
+        },
+        "1197f36a-83c0-4145-95ca-337c45a473c3": {
+          "type": "rating",
+          "settings": {}
+        },
+        "template--16115011354803__1688eaf9-2a0d-4ac0-9dd4-52b890f0f2c5-16747521356f3327f2-2": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false
+          }
+        },
+        "e9cf4222-cf7a-4f69-bcc1-a2ed0c8dfabf": {
+          "type": "product-labels",
+          "settings": {
+            "show_variant_icon": true
+          }
+        },
+        "template--16115011354803__1688eaf9-2a0d-4ac0-9dd4-52b890f0f2c5-16747521356f3327f2-4": {
+          "type": "variant-picker",
+          "settings": {
+            "selector_style": "buttons",
+            "enable_dynamic_availability": true,
+            "show_backorder_text": true,
+            "enable_size_chart": false,
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "template--16115011354803__1688eaf9-2a0d-4ac0-9dd4-52b890f0f2c5-16747521356f3327f2-5": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_qty_selector": true,
+            "enable_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "c14c0061-2dcc-4dfd-9772-385473e8b1ca": {
+          "type": "inventory-status",
+          "settings": {
+            "show_indicator_bar": false,
+            "show_urgency_message": true,
+            "text_very_low": "<p>- Almost gone!<\/p>",
+            "text_low": "<p>- Hurry while stocks last!<\/p>",
+            "text_normal": "<p>- Fill your boots!<\/p>",
+            "text_no_stock": "<p>- More on the way<\/p>",
+            "text_no_stock_backordered": "<p>Backordered<\/p>"
+          }
+        },
+        "template--16115011354803__1688eaf9-2a0d-4ac0-9dd4-52b890f0f2c5-16747521356f3327f2-7": {
+          "type": "view-more-button",
+          "settings": {
+            "button_label": "View more",
+            "text_align": "text-start"
+          }
+        }
+      },
+      "block_order": [
+        "template--16115011354803__1688eaf9-2a0d-4ac0-9dd4-52b890f0f2c5-16747521356f3327f2-0",
+        "template--16115011354803__1688eaf9-2a0d-4ac0-9dd4-52b890f0f2c5-16747521356f3327f2-1",
+        "1197f36a-83c0-4145-95ca-337c45a473c3",
+        "template--16115011354803__1688eaf9-2a0d-4ac0-9dd4-52b890f0f2c5-16747521356f3327f2-2",
+        "e9cf4222-cf7a-4f69-bcc1-a2ed0c8dfabf",
+        "template--16115011354803__1688eaf9-2a0d-4ac0-9dd4-52b890f0f2c5-16747521356f3327f2-4",
+        "template--16115011354803__1688eaf9-2a0d-4ac0-9dd4-52b890f0f2c5-16747521356f3327f2-5",
+        "c14c0061-2dcc-4dfd-9772-385473e8b1ca",
+        "template--16115011354803__1688eaf9-2a0d-4ac0-9dd4-52b890f0f2c5-16747521356f3327f2-7"
+      ],
+      "settings": {
+        "select_first_variant": true,
+        "media_ratio": "0.75",
+        "media_crop": "center",
+        "media_width": 50,
+        "enable_video_looping": false,
+        "enable_zoom": true,
+        "zoom_mode": "hover",
+        "hover_zoom": "large",
+        "color_scheme": "1",
+        "border_color": "rgba(0,0,0,0)",
+        "bg_color": "rgba(0,0,0,0)"
+      }
+    },
+    "779acb66-c6c3-4544-b078-e9b176a5f745": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16132117233843__779acb66-c6c3-4544-b078-e9b176a5f745-1678449225b47c798e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Time to get down!",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "template--16132117233843__779acb66-c6c3-4544-b078-e9b176a5f745-1678449225b47c798e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Which down jacket is right for you?<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "template--16132117233843__779acb66-c6c3-4544-b078-e9b176a5f745-1678449225b47c798e-0",
+        "template--16132117233843__779acb66-c6c3-4544-b078-e9b176a5f745-1678449225b47c798e-1"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "68980ce8-6658-4396-a357-2141b3eb73e3": {
+      "type": "product-comparison-grid",
+      "blocks": {
+        "template--16115011354803__68980ce8-6658-4396-a357-2141b3eb73e3-1674819981fbd18206-0": {
+          "type": "product",
+          "settings": {
+            "show_image": true,
+            "show_title": true,
+            "show_button": true
+          }
+        },
+        "7f80ad34-dcb4-4c35-8029-80fa5c71e8b0": {
+          "type": "rating",
+          "settings": {}
+        },
+        "0e1c4179-3129-4382-8593-3b67ea20c6a7": {
+          "type": "metafield",
+          "settings": {
+            "title": "Materials",
+            "metafield_key": "custom.materials"
+          }
+        },
+        "6fbd43f1-460b-4c7a-9744-4f1cc4db399c": {
+          "type": "metafield",
+          "settings": {
+            "title": "Waterproof",
+            "metafield_key": "custom.waterproof"
+          }
+        },
+        "c9b728f0-29ad-4fcd-9dd1-a52aa7dec14d": {
+          "type": "metafield",
+          "settings": {
+            "title": "Weight",
+            "metafield_key": "custom.weight"
+          }
+        },
+        "20bf2401-0d80-4d1f-ad87-296d2c8197e9": {
+          "type": "variant_option",
+          "settings": {
+            "title": "Color"
+          }
+        },
+        "template--16115011354803__68980ce8-6658-4396-a357-2141b3eb73e3-1674819981fbd18206-2": {
+          "type": "price",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--16115011354803__68980ce8-6658-4396-a357-2141b3eb73e3-1674819981fbd18206-0",
+        "7f80ad34-dcb4-4c35-8029-80fa5c71e8b0",
+        "0e1c4179-3129-4382-8593-3b67ea20c6a7",
+        "6fbd43f1-460b-4c7a-9744-4f1cc4db399c",
+        "c9b728f0-29ad-4fcd-9dd1-a52aa7dec14d",
+        "20bf2401-0d80-4d1f-ad87-296d2c8197e9",
+        "template--16115011354803__68980ce8-6658-4396-a357-2141b3eb73e3-1674819981fbd18206-2"
+      ],
+      "settings": {
+        "heading": "",
+        "text": "",
+        "heading_align": "text-start",
+        "view_more_label": "",
+        "view_more_link": "",
+        "empty_field_text": "N\/A",
+        "image_ratio": "shortest",
+        "image_crop": "center",
+        "num_rows": 0,
+        "color_scheme": "none",
+        "highlight_row": true
+      }
+    },
+    "6cc4ae4d-5faf-43de-baaa-4b890c8a7185": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "Get Inspired",
+        "heading_align": "text-start",
+        "show_view_all": true,
+        "blog": "news",
+        "layout": "carousel",
+        "posts_to_show": 4,
+        "show_featured_image": true,
+        "show_tags": true,
+        "show_excerpt": true,
+        "show_author": false,
+        "show_date": true,
+        "show_button": false,
+        "color_scheme": "1",
+        "image_ratio": "shortest",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "dbcbda5a-79e3-4fae-90a7-c2d5322e75ab": {
+      "type": "media-grid",
+      "blocks": {
+        "template--16115011354803__dbcbda5a-79e3-4fae-90a7-c2d5322e75ab-16747510391bef3355-0": {
+          "type": "media",
+          "settings": {
+            "image": "",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "<p>#hikingheroes<\/p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#070707",
+            "tint_opacity": 10
+          }
+        },
+        "template--16115011354803__dbcbda5a-79e3-4fae-90a7-c2d5322e75ab-16747510391bef3355-1": {
+          "type": "media",
+          "settings": {
+            "image": "",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>#tried&tested<\/p>",
+            "heading_size": "h6",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#070707",
+            "tint_opacity": 10
+          }
+        },
+        "template--16115011354803__dbcbda5a-79e3-4fae-90a7-c2d5322e75ab-16747510391bef3355-2": {
+          "type": "media",
+          "settings": {
+            "image": "",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>#socialclimbing<\/p>",
+            "heading_size": "h6",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#070707",
+            "tint_opacity": 10
+          }
+        },
+        "template--16115011354803__dbcbda5a-79e3-4fae-90a7-c2d5322e75ab-16747510391bef3355-3": {
+          "type": "media",
+          "settings": {
+            "image": "",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>#talesfromthetrail<\/p>",
+            "heading_size": "h6",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#070707",
+            "tint_opacity": 10
+          }
+        }
+      },
+      "block_order": [
+        "template--16115011354803__dbcbda5a-79e3-4fae-90a7-c2d5322e75ab-16747510391bef3355-0",
+        "template--16115011354803__dbcbda5a-79e3-4fae-90a7-c2d5322e75ab-16747510391bef3355-1",
+        "template--16115011354803__dbcbda5a-79e3-4fae-90a7-c2d5322e75ab-16747510391bef3355-2",
+        "template--16115011354803__dbcbda5a-79e3-4fae-90a7-c2d5322e75ab-16747510391bef3355-3"
+      ],
+      "settings": {
+        "title": "On Instagram",
+        "heading_align": "text-start",
+        "button_label": "Visit our IG",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": true,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 320,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "165ffde9-18bd-4f9a-ab5d-b219a23aa65f",
+    "31dfed02-3215-4fa2-a17d-38ce8ce1e694",
+    "8439eac4-400c-4a05-8f8d-68f8e4025971",
+    "f4a08e99-a90a-4c8c-b672-12463a13ea4b",
+    "7d04d41f-0e53-4472-959a-d4b172f7363e",
+    "2cbf9afe-d5b9-47d9-aa94-a8ad68c599df",
+    "c53ef942-fe3b-4f18-b8ec-97c45a768302",
+    "fc6dbdbe-ad06-4119-86ac-df55c455c19d",
+    "20ffa8fb-526b-4680-8e3f-d383a26ecd27",
+    "bd7c92b7-0936-44d1-9b5c-32d2ae935f7f",
+    "f36b38c3-6a51-468e-b9cc-7cc94d02bc98",
+    "e3be02ef-1ad3-4053-96a3-7c00500dd3bb",
+    "bbebe295-5577-4056-80f8-88244231ec72",
+    "1be86018-1cee-4496-8655-46c2c6d2c7c4",
+    "1688eaf9-2a0d-4ac0-9dd4-52b890f0f2c5",
+    "779acb66-c6c3-4544-b078-e9b176a5f745",
+    "68980ce8-6658-4396-a357-2141b3eb73e3",
+    "6cc4ae4d-5faf-43de-baaa-4b890c8a7185",
+    "dbcbda5a-79e3-4fae-90a7-c2d5322e75ab"
+  ]
+}
